@@ -24,7 +24,7 @@ def main():
     # c.draw_move(d)
     # a.draw_move(b, True)
 
-    Maze(50, 50, 10, 10, 100, 100, win)
+    Maze(50, 50, 8, 4, 100, 100, win, None)
     win.wait_for_close()
 
 
