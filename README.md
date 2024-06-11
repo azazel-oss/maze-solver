@@ -2,7 +2,9 @@
 
 ## How to run
 
-`python3 main.py`
+```bash
+python3 main.py
+```
 
 ## Steps taken to create this app
 
